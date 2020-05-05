@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - subPieza
+  - Bola
+  - mesa
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Chequeo
+  - Cepillo1
+  - Raspador1
+  - Torno1
+  - Cepillo2
+  - Raspador2
+  - Torno2
+  - Cepillo3
+  - Raspador3
+  - Torno3
+  - Cepillo4
+  - Raspador4
+  - Torno4
+  - Ninno
+  - Comida
+  - Mobiliario
+  - Vajilla
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

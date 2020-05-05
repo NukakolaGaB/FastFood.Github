@@ -1,0 +1,140 @@
+fileFormatVersion: 2
+guid: cf1fc014170d7714180cf039df31fa21
+timeCreated: 1462361561
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d000000
+  assetHash:
+    serializedVersion: 2
+    Hash: f00664e9531b5c7ab83d116d3634f855
+  longitude: -105.283
+  latitude: 40.017000000000003
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -9.64021587, y: 14.9401817, z: -18.4080563}
+      lookAt: {x: -5.11603928, y: 9.73501778, z: -11.34657}
+      up: {x: .284483224, y: .849650443, z: .444030851}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes:
+    - camera:
+        position: {x: 557.622192, y: 341.677429, z: -520.107239}
+        lookAt: {x: 64.865593, y: 87.3599091, z: 271.028473}
+        up: {x: -.139169112, y: .964731276, z: .22344026}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Home
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Fork
+    100004: Glass
+    100006: Group 1
+    100008: Group 3
+    100010: Group 8
+    100012: Knife
+    100014: Spoon
+    400000: //RootNode
+    400002: Fork
+    400004: Glass
+    400006: Group 1
+    400008: Group 3
+    400010: Group 8
+    400012: Knife
+    400014: Spoon
+    2300000: Fork
+    2300002: Group 1
+    2300004: Group 3
+    2300006: Group 8
+    2300008: Knife
+    2300010: Spoon
+    3300000: Fork
+    3300002: Group 1
+    3300004: Group 3
+    3300006: Group 8
+    3300008: Knife
+    3300010: Spoon
+    4300000: Mesh Group 1
+    4300002: Mesh Group 3
+    4300004: Mesh Fork
+    4300006: Mesh Group 8
+    4300008: Mesh Knife
+    4300010: Mesh Spoon
+    6400000: Fork
+    6400002: Group 1
+    6400004: Group 3
+    6400006: Group 8
+    6400008: Knife
+    6400010: Spoon
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 22ae4943c6097f64da0f05019abbd8cd
+timeCreated: 1479804275
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - sonido: {instanceID: 0}
+  - TornoParti: {fileID: 119290, guid: 686a079326fe37d4ab5f209fd338375c, type: 2}
+  - moverImagen: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

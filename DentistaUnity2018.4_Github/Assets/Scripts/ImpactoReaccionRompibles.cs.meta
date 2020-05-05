@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5d957e8ae22cd1642ba6a6191e671e1f
+timeCreated: 1462373573
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - crack: {instanceID: 0}
+  - roturaPart: {fileID: 172722, guid: 8d77802db08f8ca45adb787d1d7be74f, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

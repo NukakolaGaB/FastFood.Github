@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e262a64509bea2846b10be8d9a5e3ad0
+timeCreated: 1479726667
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - diente: {instanceID: 0}
+  - boca: {instanceID: 0}
+  - partSuciedadLimpio: {fileID: 101490, guid: 315be1e7c4488da4b8c867f959e6dc4f, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
